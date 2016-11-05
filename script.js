@@ -1,1 +1,1 @@
-altert('Noch 30 Minuten')
+alert('Noch 30 Minuten');
